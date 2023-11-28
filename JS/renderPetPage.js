@@ -1,4 +1,4 @@
-import { fetchIndividualPetData } from "./API.js";
+import { fetchIndividualPetData } from "./api.js";
 
 function listenForPetClick() {
     // Attach the event listener to each button individually
