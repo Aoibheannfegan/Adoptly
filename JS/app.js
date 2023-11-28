@@ -1,4 +1,4 @@
-import { handlePetsData } from './api.js';
+import { handlePetsData } from './API.js';
 import { populateTypeFilter } from './filters.js';
 import { listenForPetClick } from './renderPetPage.js';
 import { backToHome } from './utils.js';
