@@ -1,4 +1,4 @@
-import { getAccessToken, fetchAnimalTypes, fetchTypeBreeds, fetchFilteredPets } from './API.js'
+import { getAccessToken, fetchAnimalTypes, fetchTypeBreeds, fetchFilteredPets } from './api.js'
 import { renderPets } from './renderPets.js';
 import { listenForPetClick } from './renderPetPage.js';
 // import Choices from 'choices.js';
